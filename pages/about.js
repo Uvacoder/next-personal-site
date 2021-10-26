@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>About · Josh Branchaud</title>
+        <title>About · Bill Lumberg</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
